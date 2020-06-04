@@ -105,7 +105,7 @@ let evenFinder = (nums) => {
   return newArray;
 }
 
-evenFinder(nums);
+
 
 
 
